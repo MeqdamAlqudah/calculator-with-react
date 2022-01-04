@@ -25,8 +25,8 @@ not yet
 
 - Click the green `Code` button on the repo and copy link
 - In your local PC, open your terminal in the folder you would like to clone the project.
-- Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/MeqdamAlqudah/Leaderboard`
-- On the terminal, navigate into the directory like so: `cd Leaderboard`
+- Clone the repo with the command: `git clone (copied link)`; like so: `https://github.com/MeqdamAlqudah/calculator-with-react`
+- On the terminal, navigate into the directory like so: `cd calculator-with-react`
 -  first running npm i and npm start
 
 ### Prerequisites
