@@ -9,14 +9,12 @@
   box-sizing: border-box;
   margin: 0;
   flex-wrap: wrap;
-  width: 19rem;
+  width: 21rem;
   padding: 0;
 }
 
 .ul li {
   background-color: #e0e0e0;
-  width: 2rem;
-  padding: 2rem;
   border: 1px;
   border-color: #d1d1d1;
   border-style: solid;
@@ -24,9 +22,27 @@
 
 .ul .Zero {
   order: 9;
-  width: 8.1rem;
+  width: 12.2rem;
 }
 
 .ul .dot {
   order: 10;
+  background-color: #e0e0e0;
+  width: 2rem;
+  padding: 2rem 3rem 2rem 3rem;
+  border-color: #d1d1d1;
+  border-style: solid;
+}
+
+.ul li button {
+  background-color: #e0e0e0;
+  width: 2rem;
+  padding: 2rem 3rem 33.4px 45px;
+  border-color: #d1d1d1;
+  border-style: solid;
+}
+
+.ul .Zero button {
+  order: 9;
+  width: 12.2rem;
 }
