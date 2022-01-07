@@ -5,8 +5,7 @@ import SimpleOperations from './Buttons/SimpleOperations';
 import classes from './Calculator.module.css';
 import Input from './Buttons/Input';
 import calculate from './logic/calculate';
-// import calculate from './logic/calculate';
-// eslint-disable-next-line react/prefer-stateless-function
+
 class Calculator extends React.Component {
   constructor(props) {
     super(props);
@@ -22,9 +21,6 @@ class Calculator extends React.Component {
   }
 
   render() {
-    // const finallClaultaions = (total, operation, next) => {
-    //   calculate({ total, next, operation });
-    // };
     const { innerText } = this.state;
     return (
       <div className={classes.container}>
