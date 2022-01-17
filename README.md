@@ -11,7 +11,7 @@ not yet
 - JavaScript with React.js
 
 ## live demo :
--not yet
+-[Live demo ](https://calculatormeqdam99.herokuapp.com/)
 
 ## Getting Started
 
