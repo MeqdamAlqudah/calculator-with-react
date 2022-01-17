@@ -12,6 +12,7 @@ not yet
 
 ## live demo :
 -[Live demo ](https://calculatormeqdam99.herokuapp.com/)
+-[live demo](https://trusting-jang-f706d6.netlify.app/)
 
 ## Getting Started
 
